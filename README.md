@@ -1,8 +1,8 @@
 # Hi, I'm Kasia 👋
 
-AI Analytics Consultant building end-to-end data and AI solutions for decision-making.
+AI Analytics Consultant building decision-focused data and AI systems.
 
-With 15+ years of experience across finance, e-commerce, and healthcare, I design analytics systems that transform raw data into actionable business insights and strategic recommendations.
+With 15+ years of experience across finance, e-commerce, and healthcare, I design end-to-end analytics solutions that transform raw data into strategic insights and actionable business decisions.
 
 ---
 
@@ -42,7 +42,13 @@ Python • SQL • Power BI • Pandas • NumPy • OpenAI API • Machine Lear
 
 ## 💡 What I do
 
-I bridge the gap between data, AI, and business by designing systems that not only analyse data, but also generate insights and recommend actions.
+I design analytics systems that transform data into strategic insights and actionable business decisions.
+
+---
+
+## 🚀 Value
+
+Helping businesses move from data to decisions using analytics and AI.
 
 ---
 
