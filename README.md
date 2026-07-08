@@ -1,17 +1,22 @@
 # Hi, I'm Kasia 👋
 
-AI Analytics Consultant building decision-focused data and AI systems.
+## 👋 About Me
 
-With 15+ years of experience across finance, e-commerce, and healthcare, I design end-to-end analytics solutions that transform raw data into strategic insights and actionable business decisions.
+AI Analytics Consultant designing decision-focused data and AI solutions.
+
+With 15+ years of experience across finance, e-commerce and healthcare, I build end-to-end analytics solutions that transform raw data into actionable insights, measurable business value and informed decision-making.
+
+My work combines data engineering, business intelligence, AI-assisted development and modern analytics workflows, supported by an MCP-ready development environment.
 
 ---
 
 ## 🔍 Focus Areas
 
-- Investment analytics & risk modeling  
-- Customer & marketing analytics  
-- AI-powered decision support systems  
-- Business Intelligence & data storytelling  
+- End-to-End Analytics Solutions
+- Data Engineering & ETL Pipelines
+- Business Intelligence & Data Storytelling
+- AI-Assisted Analytics & Decision Support
+- Performance & Risk Analytics 
 
 ---
 
@@ -36,19 +41,57 @@ With 15+ years of experience across finance, e-commerce, and healthcare, I desig
 
 ## 🛠 Tech Stack
 
-Python • SQL • Power BI • Pandas • NumPy • OpenAI API • Machine Learning • Data Analysis • Business Intelligence
+### 📊 Programming & Analytics
+- Python
+- SQL
+- Pandas
+- NumPy
+- Marimo
+
+### 🗄️ Data Engineering
+- PostgreSQL
+- Supabase
+- n8n
+- ETL Pipelines
+- Data Validation
+- Data Modeling
+
+### 📈 Business Intelligence
+- Power BI
+- KPI Design
+- Dashboard Development
+- Data Visualization
+- Business Intelligence
+
+### 🤖 AI-Assisted Development
+
+- Cursor AI
+- ChatGPT
+- OpenAI API
+- AI-assisted Development
+- AI-first Workflow
+- Prompt Engineering
+- Generative AI
+- MCP-ready Development Environment
+
+### 📌 Analytics & Decision Support
+- Data Analytics
+- Performance Analytics
+- Sports Analytics
+- Decision Support Systems
+- Machine Learning (Foundations)
 
 ---
 
-## 💡 What I do
+## 💡 What I Do
 
-I design analytics systems that transform data into strategic insights and actionable business decisions.
+I design end-to-end analytics solutions that transform raw data into actionable insights, measurable business value and informed decision-making.
 
 ---
 
 ## 🚀 Value
 
-Helping businesses move from data to decisions using analytics and AI.
+Helping organizations make better decisions by combining data engineering, analytics, business intelligence and AI-assisted development.
 
 ---
 
