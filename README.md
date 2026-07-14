@@ -69,7 +69,7 @@ My work combines data engineering, business intelligence, AI-assisted developmen
 - ChatGPT
 - OpenAI API
 - AI-assisted Development
-- AI-first Workflow
+- AI-Workflow
 - Prompt Engineering
 - Generative AI
 - MCP-ready Development Environment
